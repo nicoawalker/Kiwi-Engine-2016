@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Core\Any.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -596,8 +593,5 @@
     <ClInclude Include="Core\Events\IGlobalEventListener.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
 </Project>
